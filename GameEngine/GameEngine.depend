@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1467532769 source:/home/ajay/Desktop/Work/GraphicsWork/GameEngineDevelopment/GameEngine/main.cpp
+	<iostream>
+	"graphics/Window.h"
+	"utils/Fileutils.h"
+	"graphics/Shader.h"
+	"include/macros.h"
+
+1467474378 /home/ajay/Desktop/Work/GraphicsWork/GameEngineDevelopment/GameEngine/GameEngineCore/graphics/window.h
+	<string>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+
+1467490686 source:/home/ajay/Desktop/Work/GraphicsWork/GameEngineDevelopment/GameEngine/GameEngineCore/graphics/window.cpp
+	"include/macros.h"
+	"window.h"
+
+1467474328 /home/ajay/Desktop/Work/GraphicsWork/GameEngineDevelopment/GameEngine/GameEngineCore/include/macros.h
+	<iostream>
+
+1467490719 source:/home/ajay/Desktop/Work/GraphicsWork/GameEngineDevelopment/GameEngine/GameEngineCore/utils/fileutils.cpp
+	"include/macros.h"
+	<fstream>
+	"fileutils.h"
+
+1467490819 /home/ajay/Desktop/Work/GraphicsWork/GameEngineDevelopment/GameEngine/GameEngineCore/utils/fileutils.h
+	<string>
+
+1467532573 source:/home/ajay/Desktop/Work/GraphicsWork/GameEngineDevelopment/GameEngine/GameEngineCore/graphics/Window.cpp
+	"include/macros.h"
+	"Window.h"
+
+1467493094 /home/ajay/Desktop/Work/GraphicsWork/GameEngineDevelopment/GameEngine/GameEngineCore/graphics/Window.h
+	<string>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+
+1467493097 source:/home/ajay/Desktop/Work/GraphicsWork/GameEngineDevelopment/GameEngine/GameEngineCore/utils/Fileutils.cpp
+	"Fileutils.h"
+	"include/macros.h"
+	<fstream>
+
+1467493099 /home/ajay/Desktop/Work/GraphicsWork/GameEngineDevelopment/GameEngine/GameEngineCore/utils/Fileutils.h
+	<string>
+
+1467532834 source:/home/ajay/Desktop/Work/GraphicsWork/GameEngineDevelopment/GameEngine/GameEngineCore/graphics/Shader.cpp
+	"Shader.h"
+	"utils/Fileutils.h"
+	"include/macros.h"
+
+1467532152 /home/ajay/Desktop/Work/GraphicsWork/GameEngineDevelopment/GameEngine/GameEngineCore/graphics/Shader.h
+	<iostream>
+	<GL/glew.h>
+
